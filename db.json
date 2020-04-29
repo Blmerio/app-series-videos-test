@@ -1,0 +1,78 @@
+[
+{
+"status": "ok",
+"count": 12,
+"categories": [
+{
+"cid": 16,
+"category_name": "مسلسل اوريم",
+"category_image": "9237-2020-04-24.jpg",
+"video_count": 4
+},
+{
+"cid": 15,
+"category_name": "مامجي",
+"category_image": "3783-2020-04-08.png",
+"video_count": 30
+},
+{
+"cid": 14,
+"category_name": "حلقات ومقاطع منوعة",
+"category_image": "1170-2020-03-28.png",
+"video_count": 1
+},
+{
+"cid": 13,
+"category_name": "قلبت جد",
+"category_image": "2992-2020-02-16.png",
+"video_count": 20
+},
+{
+"cid": 12,
+"category_name": "الجزء الثامن",
+"category_image": "9735-2019-07-05.jpg",
+"video_count": 30
+},
+{
+"cid": 11,
+"category_name": "الجزء السابع",
+"category_image": "6208-2019-07-05.jpg",
+"video_count": 29
+},
+{
+"cid": 10,
+"category_name": "الجزء السادس",
+"category_image": "6219-2019-07-05.jpg",
+"video_count": 29
+},
+{
+"cid": 9,
+"category_name": "الجزء الخامس",
+"category_image": "3902-2019-07-05.jpg",
+"video_count": 30
+},
+{
+"cid": 8,
+"category_name": "الجزء الرابع",
+"category_image": "0893-2019-07-05.jpg",
+"video_count": 29
+},
+{
+"cid": 7,
+"category_name": "الجزء الثالث",
+"category_image": "0173-2019-07-05.jpg",
+"video_count": 29
+},
+{
+"cid": 6,
+"category_name": "الجزء الثاني",
+"category_image": "4453-2019-07-05.jpg",
+"video_count": 30
+},
+{
+"cid": 4,
+"category_name": "الجزء الأول",
+"category_image": "4540-2019-07-05.jpg",
+"video_count": 32
+}
+]
